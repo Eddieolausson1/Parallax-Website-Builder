@@ -1,0 +1,9 @@
+title: Parallax
+description: "Build advanced websites."
+baseurl: ""
+
+destination: ./dist
+
+exclude:
+  - README.md
+  - LICENSE
